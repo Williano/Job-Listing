@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:job_listing/category_clients_screen.dart';
 import 'package:job_listing/category_list_screen.dart';
-#import 'package:device_preview/device_preview.dart';
+//import 'package:device_preview/device_preview.dart';
 
 void main() => runApp(JobListinApp());
 
