@@ -21,7 +21,9 @@ class _CategoryClientsScreenState extends State<CategoryClientsScreen> {
         title: Text(
           categoryName,
           style: GoogleFonts.mPlusRounded1c(
-              fontSize: 24.0, fontWeight: FontWeight.bold, color: Colors.black),
+              fontSize: 24.0,
+              fontWeight: FontWeight.bold,
+              color: Colors.black12),
         ),
         actions: <Widget>[
           Padding(
