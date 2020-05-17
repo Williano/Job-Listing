@@ -58,10 +58,10 @@ To run this app, you will need to follow these 3 steps:
 ##### 3. Set up and run the app from your command line:
   ```
   # Clone this repository
-  $ git clone https://github.com/Williano/Instagram-UI.git
+  $ git clone https://github.com/Williano/Job-Listing.git
 
   # Go into the repository
-  $ cd Bona-Blog-Mobile
+  $ cd Job-Listing
 
   # Install all dependences 
   $ flutter pub get
