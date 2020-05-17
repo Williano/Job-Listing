@@ -30,7 +30,7 @@ class _CategoryClientsScreenState extends State<CategoryClientsScreen> {
             padding: const EdgeInsets.only(right: 10.0),
             child: GestureDetector(
               onTap: () {
-                print("Tapped");
+                print("Tapped working");
               },
               child: ImageIcon(
                 AssetImage("assets/icons/filter.png"),
